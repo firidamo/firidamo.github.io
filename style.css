@@ -24,3 +24,7 @@ hr {
     height: 3px;
     border: none;
 }
+
+ iframe {
+            border: none;
+        }
